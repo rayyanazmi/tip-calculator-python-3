@@ -1,5 +1,3 @@
-Sure, here is a README for your tip calculator project:
-
 ## Tip Calculator
 
 This is a simple tip calculator program written in Python 3. It takes the total bill amount, the desired tip percentage, and the number of people splitting the bill, and then calculates the amount each person should pay.
@@ -42,5 +40,3 @@ print(f"Each person should pay: ${final_amount}")
 ```
 
 This line prints the final amount each person should pay, using f-string formatting to include the dollar symbol.
-
-I hope this explanation is helpful.
